@@ -1,4 +1,5 @@
-# SeedCracker [![Github All Releases](https://img.shields.io/github/downloads/KaptainWutax/SeedCracker/total.svg)]()
+# SeedCracker-Reloaded [![Github All Releases](https://img.shields.io/github/downloads/KaptainWutax/SeedCracker/total.svg)]()
+This is a Reload version for SeedCracker It support new versoion for minecraft
 
 ## Installation
 
@@ -90,8 +91,8 @@ A list of features I have on my mind... they won't necessarily be implemented in
  
 ## Contributors
 
-[KaptainWutax](https://github.com/KaptainWutax) - Author
+[KaptainWutax](https://github.com/KaptainWutax) - Old Author
 
-[neil](https://www.youtube.com/watch?v=aUuPSZVPH8E) - Video Tutorial
+[Nekzuris](https://github.com/Nekzuris) - Old README Author
 
-[Nekzuris](https://github.com/Nekzuris) - README
+[FlyProject](https://github.com/FlyProj) - Reloaded Author
